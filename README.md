@@ -1,5 +1,5 @@
 # Golang Bittorrent Client
-### Made in a team of 3 - rr1259, 
+### Made in a team of 3 - rr1259, gavinkhung, KennyWu
 
 ## Usage Instructions : 
 - Downlaod repo, go into directory...
